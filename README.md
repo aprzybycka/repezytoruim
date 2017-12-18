@@ -1,0 +1,2 @@
+# repezytoruim
+szkolenie git
